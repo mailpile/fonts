@@ -46,10 +46,10 @@
       <point x="649" y="-29"/>
       <point x="489" y="6"/>
       <point x="412" y="45" type="qcurve"/>
-      <point x="412" y="-465" type="line"/>
+      <point x="412" y="-477" type="line"/>
       <point x="250" y="-477" type="line"/>
       <point x="250" y="1049" type="line"/>
-      <point x="106" y="1054" type="line"/>
+      <point x="106" y="1049" type="line"/>
     </contour>
   </outline>
   <lib>

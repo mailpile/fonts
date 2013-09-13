@@ -7,15 +7,11 @@
       <point x="410" y="1108" type="qcurve" smooth="yes"/>
       <point x="410" y="221" type="line" smooth="yes"/>
       <point x="410.0" y="165.0" name="inserted"/>
-      <point x="455.0" y="109.0"/>
-      <point x="500" y="109" type="qcurve" smooth="yes"/>
-      <point x="517.5" y="109.0" name="inserted"/>
-      <point x="580" y="115"/>
-      <point x="604" y="121" type="qcurve"/>
-      <point x="604" y="-2" type="line"/>
-      <point x="564.0" y="-15.5" name="inserted"/>
-      <point x="463" y="-13"/>
-      <point x="417" y="-13" type="qcurve" smooth="yes"/>
+      <point x="455" y="121"/>
+      <point x="500" y="121" type="qcurve"/>
+      <point x="604" y="121" type="line"/>
+      <point x="604" y="-13" type="line"/>
+      <point x="417" y="-13" type="line"/>
       <point x="326" y="-13" name="inserted"/>
       <point x="250.0" y="87.0"/>
       <point x="250" y="203" type="qcurve" smooth="yes"/>
