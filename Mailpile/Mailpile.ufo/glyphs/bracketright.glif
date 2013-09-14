@@ -4,14 +4,14 @@
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="305" y="1516" type="line"/>
-      <point x="57" y="1516" type="line"/>
+      <point x="305" y="1464" type="line"/>
+      <point x="57" y="1464" type="line"/>
       <point x="57" y="1628" type="line"/>
       <point x="469" y="1628" type="line"/>
       <point x="469" y="-135" type="line"/>
       <point x="57" y="-135" type="line"/>
-      <point x="57" y="-23" type="line"/>
-      <point x="305" y="-23" type="line"/>
+      <point x="57" y="29" type="line"/>
+      <point x="305" y="29" type="line"/>
     </contour>
   </outline>
   <lib>

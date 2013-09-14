@@ -6,32 +6,32 @@
     <contour>
       <point x="1368" y="0" type="line"/>
       <point x="1233" y="0" type="line" smooth="yes"/>
-      <point x="1206.5" y="0.0" name="inserted"/>
-      <point x="1168.5" y="20.5"/>
+      <point x="1207" y="0" name="inserted"/>
+      <point x="1169" y="21"/>
       <point x="1157" y="41" type="qcurve" smooth="yes"/>
       <point x="440" y="1235" type="line"/>
       <point x="440" y="63" type="line" smooth="yes"/>
-      <point x="440.0" y="31.5" name="inserted"/>
-      <point x="408.5" y="0.0"/>
+      <point x="440" y="32" name="inserted"/>
+      <point x="409" y="0"/>
       <point x="377" y="0" type="qcurve" smooth="yes"/>
       <point x="150" y="0" type="line"/>
-      <point x="150" y="118" type="line"/>
-      <point x="276" y="121" type="line"/>
-      <point x="276.0" y="121.0"/>
-      <point x="279.0" y="1497.0"/>
-      <point x="279" y="1497" type="qcurve"/>
+      <point x="150" y="137" type="line"/>
+      <point x="277" y="137" type="line"/>
+      <point x="277" y="137"/>
+      <point x="277" y="1497"/>
+      <point x="277" y="1497" type="qcurve"/>
       <point x="412" y="1495" type="line"/>
       <point x="434" y="1493"/>
       <point x="475" y="1475"/>
       <point x="487" y="1454" type="qcurve" smooth="yes"/>
       <point x="1204" y="258" type="line"/>
       <point x="1204" y="1432" type="line" smooth="yes"/>
-      <point x="1204.0" y="1463.5" name="inserted"/>
-      <point x="1235.0" y="1495.0"/>
+      <point x="1204" y="1464" name="inserted"/>
+      <point x="1235" y="1495"/>
       <point x="1266" y="1495" type="qcurve" smooth="yes"/>
       <point x="1495" y="1495" type="line"/>
-      <point x="1495" y="1371" type="line"/>
-      <point x="1368" y="1372" type="line"/>
+      <point x="1495" y="1358" type="line"/>
+      <point x="1368" y="1358" type="line"/>
     </contour>
   </outline>
   <lib>
