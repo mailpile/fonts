@@ -9,8 +9,8 @@
       <point x="277" y="0"/>
       <point x="277" y="1358"/>
       <point x="277" y="1358" type="qcurve"/>
-      <point x="150" y="1358" type="line"/>
-      <point x="150" y="1495" type="line"/>
+      <point x="141" y="1358" type="line"/>
+      <point x="141" y="1495" type="line"/>
       <point x="1018" y="1495" type="line" smooth="yes"/>
       <point x="1050" y="1495" name="inserted"/>
       <point x="1081" y="1464"/>
