@@ -13,15 +13,15 @@
       <point x="440" y="127"/>
       <point x="590" y="127" type="qcurve" smooth="yes"/>
       <point x="776" y="127"/>
-      <point x="981" y="420"/>
-      <point x="987" y="750" type="qcurve"/>
-      <point x="892" y="676" name="inserted"/>
-      <point x="688.0" y="606.0"/>
-      <point x="584.0" y="606.0" type="qcurve" smooth="yes"/>
-      <point x="481.0" y="606.0"/>
-      <point x="313.0" y="674.0"/>
-      <point x="253.0" y="729.0" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="193.0" y="784.0"/>
+      <point x="981" y="430"/>
+      <point x="987" y="760" type="qcurve"/>
+      <point x="892" y="686" name="inserted"/>
+      <point x="688" y="582"/>
+      <point x="584" y="582" type="qcurve" smooth="yes"/>
+      <point x="481" y="582"/>
+      <point x="307" y="660"/>
+      <point x="251" y="721" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="196" y="781"/>
       <point x="123" y="954"/>
       <point x="123" y="1063" type="qcurve" smooth="yes"/>
       <point x="123" y="1280"/>
@@ -34,18 +34,18 @@
       <point x="852" y="-7"/>
     </contour>
     <contour>
-      <point x="594.0" y="731.0" type="qcurve" smooth="yes"/>
-      <point x="695.0" y="731.0" name="inserted"/>
-      <point x="887" y="834"/>
-      <point x="979" y="908" type="qcurve"/>
-      <point x="975" y="1156"/>
-      <point x="786" y="1389"/>
-      <point x="623" y="1389" type="qcurve" smooth="yes"/>
-      <point x="461" y="1389"/>
+      <point x="588" y="719" type="qcurve" smooth="yes"/>
+      <point x="689" y="719" name="inserted"/>
+      <point x="887" y="844"/>
+      <point x="979" y="918" type="qcurve"/>
+      <point x="975" y="1166"/>
+      <point x="786" y="1388"/>
+      <point x="623" y="1388" type="qcurve" smooth="yes"/>
+      <point x="461" y="1388"/>
       <point x="285" y="1220"/>
       <point x="285" y="1061" type="qcurve" smooth="yes"/>
       <point x="285" y="901"/>
-      <point x="459.0" y="731.0"/>
+      <point x="453" y="719"/>
     </contour>
   </outline>
   <lib>
