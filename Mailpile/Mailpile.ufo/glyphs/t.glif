@@ -13,11 +13,11 @@
       <point x="595" y="1084" type="line"/>
       <point x="595" y="960" type="line"/>
       <point x="372" y="960" type="line"/>
-      <point x="372" y="250" type="line" smooth="yes"/>
-      <point x="372" y="195" name="inserted"/>
-      <point x="417" y="140"/>
-      <point x="462" y="140" type="qcurve"/>
-      <point x="595" y="140" type="line"/>
+      <point x="372" y="234" type="line" smooth="yes"/>
+      <point x="372" y="179" name="inserted"/>
+      <point x="417" y="124"/>
+      <point x="462" y="124" type="qcurve"/>
+      <point x="595" y="124" type="line"/>
       <point x="595" y="0" type="line"/>
       <point x="424" y="0" type="line"/>
       <point x="325" y="0"/>

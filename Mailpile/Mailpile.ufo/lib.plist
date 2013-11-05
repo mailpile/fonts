@@ -11,9 +11,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/brennannovak/Dropbox/MailpileCode/fonts/Mailpile/Mailpile.otf</string>
+	<string>/Users/brennannovak/Dropbox/MailpileCode/fonts/Mailpile/Mailpile-Light.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

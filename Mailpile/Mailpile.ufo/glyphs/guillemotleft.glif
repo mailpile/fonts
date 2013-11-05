@@ -5,18 +5,18 @@
   <outline>
     <contour>
       <point x="295" y="955" type="line"/>
-      <point x="471" y="955" type="line"/>
-      <point x="242" y="657" type="line"/>
-      <point x="471" y="370" type="line"/>
+      <point x="458" y="955" type="line"/>
+      <point x="229" y="657" type="line"/>
+      <point x="458" y="370" type="line"/>
       <point x="295" y="370" type="line"/>
       <point x="96" y="610" type="line"/>
       <point x="96" y="705" type="line"/>
     </contour>
     <contour>
       <point x="660" y="954" type="line"/>
-      <point x="830" y="954" type="line"/>
-      <point x="604" y="657" type="line"/>
-      <point x="830" y="371" type="line"/>
+      <point x="817" y="954" type="line"/>
+      <point x="591" y="657" type="line"/>
+      <point x="817" y="371" type="line"/>
       <point x="660" y="371" type="line"/>
       <point x="461" y="610" type="line"/>
       <point x="461" y="705" type="line"/>

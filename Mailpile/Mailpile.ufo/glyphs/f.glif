@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="788"/>
+  <advance width="766"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
@@ -12,14 +12,14 @@
       <point x="78" y="948" type="line"/>
       <point x="78" y="1084" type="line"/>
       <point x="279" y="1084" type="line"/>
-      <point x="289" y="1299"/>
-      <point x="432" y="1495"/>
-      <point x="635" y="1495" type="qcurve"/>
-      <point x="710" y="1495" type="line"/>
-      <point x="710" y="1358" type="line"/>
-      <point x="631" y="1358" type="line"/>
-      <point x="522" y="1358" name="inserted"/>
-      <point x="427" y="1240"/>
+      <point x="279" y="1299"/>
+      <point x="406" y="1495"/>
+      <point x="613" y="1495" type="qcurve"/>
+      <point x="688" y="1495" type="line"/>
+      <point x="688" y="1358" type="line"/>
+      <point x="606" y="1358" type="line"/>
+      <point x="526" y="1358" name="inserted"/>
+      <point x="418" y="1279"/>
       <point x="418" y="1084" type="qcurve"/>
       <point x="675" y="1084" type="line"/>
       <point x="675" y="948" type="line"/>
