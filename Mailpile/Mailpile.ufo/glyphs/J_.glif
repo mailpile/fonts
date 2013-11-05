@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="1100"/>
+  <advance width="1090"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="1011" y="1432" type="qcurve" smooth="yes"/>
-      <point x="1011" y="447" type="line" smooth="yes"/>
-      <point x="1011" y="224" name="inserted"/>
+      <point x="1002" y="1432" type="qcurve" smooth="yes"/>
+      <point x="1002" y="447" type="line" smooth="yes"/>
+      <point x="1002" y="224" name="inserted"/>
       <point x="761" y="0"/>
       <point x="559" y="0" type="qcurve" smooth="yes"/>
       <point x="360" y="0" name="inserted"/>
@@ -16,17 +16,17 @@
       <point x="224" y="508" type="line"/>
       <point x="224" y="453" type="line" smooth="yes"/>
       <point x="224" y="289" name="inserted"/>
-      <point x="432" y="132"/>
-      <point x="557" y="132" type="qcurve" smooth="yes"/>
-      <point x="679" y="132" name="inserted"/>
+      <point x="432" y="130"/>
+      <point x="557" y="130" type="qcurve" smooth="yes"/>
+      <point x="679" y="130" name="inserted"/>
       <point x="856" y="261"/>
       <point x="856" y="453" type="qcurve" smooth="yes"/>
-      <point x="856" y="1358" type="line"/>
-      <point x="473" y="1358" type="line"/>
+      <point x="856" y="1365" type="line"/>
+      <point x="473" y="1365" type="line"/>
       <point x="473" y="1495" type="line"/>
-      <point x="943" y="1495" type="line" smooth="yes"/>
-      <point x="977" y="1495" name="inserted"/>
-      <point x="1011" y="1464"/>
+      <point x="934" y="1495" type="line" smooth="yes"/>
+      <point x="968" y="1495" name="inserted"/>
+      <point x="1002" y="1464"/>
     </contour>
   </outline>
   <lib>

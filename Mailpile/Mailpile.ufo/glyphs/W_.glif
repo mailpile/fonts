@@ -6,15 +6,15 @@
     <contour>
       <point x="1754" y="1495" type="qcurve" smooth="yes"/>
       <point x="1966" y="1495" type="line"/>
-      <point x="1966" y="1358" type="line"/>
-      <point x="1830" y="1358" type="line"/>
+      <point x="1966" y="1365.0" type="line"/>
+      <point x="1830" y="1365.0" type="line"/>
       <point x="1531" y="0" type="line"/>
       <point x="1326" y="0" type="line"/>
-      <point x="1002" y="1358" type="line"/>
+      <point x="1002" y="1365.0" type="line"/>
       <point x="679" y="0" type="line"/>
       <point x="474" y="0" type="line"/>
-      <point x="175" y="1358" type="line"/>
-      <point x="39" y="1358" type="line"/>
+      <point x="175" y="1365.0" type="line"/>
+      <point x="39" y="1365.0" type="line"/>
       <point x="39" y="1495" type="line"/>
       <point x="253" y="1495" type="line" smooth="yes"/>
       <point x="282" y="1495" name="inserted"/>

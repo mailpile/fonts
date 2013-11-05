@@ -14,6 +14,8 @@
 	<string>Mailpile</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
+	<key>note</key>
+	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/05/29 14:44:17</string>
 	<key>openTypeHeadFlags</key>
@@ -39,17 +41,17 @@
 	<key>openTypeNameDescription</key>
 	<string>Fauna is a modern typeface with low contrast strokes and soft terminals that form traditional serifs. Its structure is soft and slightly condensed. It reads clearly in paragraph composition and looks beautiful in headlines.</string>
 	<key>openTypeNameDesigner</key>
-	<string>Eduardo Rodriguez Tunni</string>
+	<string>Brennan Novak</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://www.tipo.net.ar</string>
+	<string>http://brennannovak.com</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Eduardo Rodriguez Tunni</string>
+	<string>Mailpile</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>http://www.tipo.net.ar</string>
+	<string>http://mailpile.is</string>
 	<key>openTypeNameUniqueID</key>
 	<string>Fauna One:Version 1.001</string>
 	<key>openTypeNameVersion</key>
@@ -159,7 +161,7 @@
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>Fauna is a trademark of Eduardo Rodriguez Tunni.</string>
+	<string>Mailpile is a trademark of Mailpile ehf.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>

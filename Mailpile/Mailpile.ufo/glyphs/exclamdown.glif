@@ -4,24 +4,24 @@
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="228" y="823" type="line"/>
-      <point x="340" y="823" type="line"/>
-      <point x="372" y="-311" type="line"/>
-      <point x="195" y="-311" type="line"/>
+      <point x="223" y="924" type="line"/>
+      <point x="345" y="924" type="line"/>
+      <point x="372" y="-210" type="line"/>
+      <point x="195" y="-210" type="line"/>
     </contour>
     <contour>
-      <point x="287" y="983" type="qcurve" smooth="yes"/>
-      <point x="244" y="983"/>
-      <point x="178" y="1049"/>
-      <point x="178" y="1092" type="qcurve" smooth="yes"/>
-      <point x="178" y="1137"/>
-      <point x="244" y="1200"/>
-      <point x="287" y="1200" type="qcurve" smooth="yes"/>
-      <point x="332" y="1200"/>
-      <point x="395" y="1137"/>
-      <point x="395" y="1092" type="qcurve" smooth="yes"/>
-      <point x="395" y="1049"/>
-      <point x="332" y="983"/>
+      <point x="287" y="1084" type="qcurve" smooth="yes"/>
+      <point x="244" y="1084"/>
+      <point x="178" y="1150"/>
+      <point x="178" y="1193" type="qcurve" smooth="yes"/>
+      <point x="178" y="1238"/>
+      <point x="244" y="1301"/>
+      <point x="287" y="1301" type="qcurve" smooth="yes"/>
+      <point x="332" y="1301"/>
+      <point x="395" y="1238"/>
+      <point x="395" y="1193" type="qcurve" smooth="yes"/>
+      <point x="395" y="1150"/>
+      <point x="332" y="1084"/>
     </contour>
   </outline>
   <lib>
