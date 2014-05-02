@@ -2,6 +2,15 @@
 <glyph name="s" format="1">
   <advance width="916"/>
   <unicode hex="0073"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Overshot &amp; Underhang match
+    ###
+    
+    #####
+  </note>
   <outline>
     <contour>
       <point x="393" y="641" type="qcurve"/>

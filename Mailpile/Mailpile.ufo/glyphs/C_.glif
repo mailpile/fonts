@@ -2,9 +2,18 @@
 <glyph name="C" format="1">
   <advance width="1400"/>
   <unicode hex="0043"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Overshot &amp; Undershang match
+    ###
+    
+    #####
+  </note>
   <outline>
     <contour>
-      <point x="1352" y="178" type="move"/>
+      <point x="1352" y="178" type="line"/>
       <point x="1289" y="120"/>
       <point x="1038" y="-36"/>
       <point x="791" y="-37" type="qcurve" smooth="yes"/>
@@ -34,6 +43,9 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

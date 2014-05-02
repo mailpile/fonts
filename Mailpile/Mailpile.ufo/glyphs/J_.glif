@@ -2,6 +2,15 @@
 <glyph name="J" format="1">
   <advance width="1090"/>
   <unicode hex="004A"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Undershang match
+    ###
+    
+    #####
+  </note>
   <outline>
     <contour>
       <point x="1002" y="1432" type="qcurve" smooth="yes"/>

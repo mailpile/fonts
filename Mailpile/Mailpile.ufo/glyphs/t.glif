@@ -2,6 +2,15 @@
 <glyph name="t" format="1">
   <advance width="675"/>
   <unicode hex="0074"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Underhang -10, -6, or -4 and hieght of serif match "l, i, j, t"
+    ###
+    
+    #####
+  </note>
   <outline>
     <contour>
       <point x="233" y="210" type="qcurve"/>

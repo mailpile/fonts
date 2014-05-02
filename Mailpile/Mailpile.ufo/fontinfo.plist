@@ -15,7 +15,13 @@
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>note</key>
-	<string></string>
+	<string>### RoboToDo ###
+
+### TODO:
+Normalize stems (vertical width) of lowercase chars match (138)
+###
+
+#####</string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/05/29 14:44:17</string>
 	<key>openTypeHeadFlags</key>

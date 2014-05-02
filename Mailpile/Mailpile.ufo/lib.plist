@@ -16,6 +16,58 @@
 	<string>/Users/brennannovak/Dropbox/MailpileCode/fonts/Mailpile/Mailpile-Light.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>0.0</real>
+		<real>0.5</real>
+		<real>0.7</real>
+	</array>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>11</integer>
+			<key>name</key>
+			<string>Underhang (both)</string>
+			<key>x</key>
+			<integer>1534</integer>
+			<key>y</key>
+			<integer>-20</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>11</integer>
+			<key>name</key>
+			<string>Overshoot (upper)</string>
+			<key>x</key>
+			<integer>1685</integer>
+			<key>y</key>
+			<integer>1515</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>10</integer>
+			<key>name</key>
+			<string>Overshoot (lower)</string>
+			<key>x</key>
+			<integer>1678</integer>
+			<key>y</key>
+			<integer>1104</integer>
+		</dict>
+	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>

@@ -2,6 +2,19 @@
 <glyph name="o" format="1">
   <advance width="1251"/>
   <unicode hex="006F"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Overshot &amp; Underhang match
+    ###
+    
+    ### TODO:
+    Modify height / width to compensate for optical illusion
+    ###
+    
+    #####
+  </note>
   <outline>
     <contour>
       <point x="1069" y="372"/>
