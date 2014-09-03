@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="1414"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="768" y="643" type="line"/>
+      <point x="768" y="875" type="line"/>
+      <point x="399" y="875" type="line"/>
+      <point x="399" y="1315" type="line"/>
+      <point x="610" y="1315" type="line" smooth="yes"/>
+      <point x="942" y="1315"/>
+      <point x="1143" y="1064"/>
+      <point x="1143" y="750" type="curve" smooth="yes"/>
+      <point x="1143" y="438"/>
+      <point x="946" y="182"/>
+      <point x="610" y="182" type="curve" smooth="yes"/>
+      <point x="399" y="182" type="line"/>
+      <point x="399" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="-51" type="line"/>
+      <point x="602" y="-51" type="line" smooth="yes"/>
+      <point x="1101" y="-51"/>
+      <point x="1396" y="287"/>
+      <point x="1396" y="749" type="curve" smooth="yes"/>
+      <point x="1396" y="1207"/>
+      <point x="1099" y="1548"/>
+      <point x="602" y="1548" type="curve" smooth="yes"/>
+      <point x="15" y="1548" type="line"/>
+      <point x="15" y="1314" type="line"/>
+      <point x="151" y="1314" type="line"/>
+      <point x="151" y="875" type="line"/>
+      <point x="31" y="875" type="line"/>
+      <point x="31" y="643" type="line"/>
+      <point x="151" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
