@@ -4,6 +4,15 @@
 <dict>
 	<key>GSDimensionPlugin.Dimensions</key>
 	<dict>
+		<key>30CC81A9-A241-476D-83CD-2B8CDE662B26</key>
+		<dict>
+			<key>HV</key>
+			<string>146</string>
+			<key>nV</key>
+			<integer>238</integer>
+			<key>nd</key>
+			<integer>141</integer>
+		</dict>
 		<key>6D54B4D5-652F-47F3-9D01-A904566B661D</key>
 		<dict>
 			<key>HH</key>
@@ -27,22 +36,24 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>127</integer>
+		<integer>2</integer>
 		<key>GSOffsetHorizontal</key>
-		<string>-5</string>
+		<real>-171</real>
 		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<true/>
 		<key>GSOffsetVertical</key>
-		<integer>10</integer>
+		<real>10</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>6D54B4D5-652F-47F3-9D01-A904566B661D</string>
+	<string>30CC81A9-A241-476D-83CD-2B8CDE662B26</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>400.0</real>
+	<real>800</real>
 	<key>com.schriftgestaltung.widthValue</key>
-	<real>5.0</real>
+	<real>5</real>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -54,7 +65,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/brennannovak/MailpileCode/fonts/Mailpile/Mailpile-Bold.ttf</string>
+	<string>/Users/brennannovak/MailpileCode/fonts/Mailpile/Mailpile-Normal.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -543,31 +554,6 @@
 		<string>Ntilde</string>
 		<string>Odieresis</string>
 		<string>Udieresis</string>
-		<string>aacute</string>
-		<string>agrave</string>
-		<string>acircumflex</string>
-		<string>adieresis</string>
-		<string>atilde</string>
-		<string>aring</string>
-		<string>ccedilla</string>
-		<string>eacute</string>
-		<string>egrave</string>
-		<string>ecircumflex</string>
-		<string>edieresis</string>
-		<string>iacute</string>
-		<string>igrave</string>
-		<string>icircumflex</string>
-		<string>idieresis</string>
-		<string>ntilde</string>
-		<string>oacute</string>
-		<string>ograve</string>
-		<string>ocircumflex</string>
-		<string>odieresis</string>
-		<string>otilde</string>
-		<string>uacute</string>
-		<string>ugrave</string>
-		<string>ucircumflex</string>
-		<string>udieresis</string>
 		<string>dagger</string>
 		<string>degree</string>
 		<string>cent</string>
@@ -654,56 +640,15 @@
 		<string>glyph00228</string>
 		<string>glyph00229</string>
 		<string>glyph00230</string>
-		<string>Ccaron</string>
-		<string>Ccircumflex</string>
-		<string>Dcaron</string>
 		<string>Dcroat</string>
-		<string>Ecaron</string>
-		<string>Eogonek</string>
-		<string>Gbreve</string>
-		<string>Idotaccent</string>
 		<string>IJ</string>
-		<string>Lacute</string>
 		<string>Lcaron</string>
-		<string>Nacute</string>
-		<string>Ncaron</string>
-		<string>Uhungarumlaut</string>
-		<string>Uring</string>
 		<string>uni021A</string>
 		<string>Tcaron</string>
 		<string>Ohungarumlaut</string>
-		<string>Racute</string>
-		<string>Rcaron</string>
-		<string>Sacute</string>
 		<string>Scommaaccent</string>
 		<string>Zacute</string>
 		<string>Zdotaccent</string>
-		<string>abreve</string>
-		<string>aogonek</string>
-		<string>cacute</string>
-		<string>ccaron</string>
-		<string>ccircumflex</string>
-		<string>dcaron</string>
-		<string>ecaron</string>
-		<string>eogonek</string>
-		<string>gbreve</string>
-		<string>ij</string>
-		<string>lacute</string>
-		<string>lcaron</string>
-		<string>nacute</string>
-		<string>zdotaccent</string>
-		<string>zacute</string>
-		<string>uhungarumlaut</string>
-		<string>uring</string>
-		<string>ohungarumlaut</string>
-		<string>ncaron</string>
-		<string>racute</string>
-		<string>rcaron</string>
-		<string>sacute</string>
-		<string>uni021B</string>
-		<string>tcaron</string>
-		<string>scedilla</string>
-		<string>scommaaccent</string>
 		<string>Amacron</string>
 		<string>Emacron</string>
 		<string>Edotaccent</string>
@@ -752,7 +697,6 @@
 		<string>Wgrave</string>
 		<string>Ycircumflex</string>
 		<string>Ygrave</string>
-		<string>G.001</string>
 		<string>Ycircumflex.001</string>
 		<string>cdotaccent</string>
 		<string>gdotaccent</string>

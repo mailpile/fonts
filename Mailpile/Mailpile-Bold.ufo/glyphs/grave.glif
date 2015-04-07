@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="559"/>
+  <advance width="518"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="210" y="1714" type="line"/>
-      <point x="45" y="1518" type="line"/>
-      <point x="533" y="1206" type="line"/>
-      <point x="655" y="1367" type="line"/>
+      <point x="42" y="1452" type="line"/>
+      <point x="494" y="1163" type="line"/>
+      <point x="607" y="1312" type="line"/>
+      <point x="194" y="1633" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="1084" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

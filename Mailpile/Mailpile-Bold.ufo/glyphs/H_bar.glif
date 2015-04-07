@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="1">
-  <advance width="1551"/>
+  <advance width="1442"/>
   <unicode hex="0126"/>
   <outline>
     <component base="H"/>
-    <component base="macron" xScale="2" xOffset="-408" yOffset="-292"/>
+    <component base="macron" xOffset="-265" yOffset="-211" xScale="1.70"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

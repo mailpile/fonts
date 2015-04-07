@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="675"/>
+  <advance width="681"/>
   <unicode hex="0167"/>
   <outline>
     <component base="t"/>
-    <component base="macron" xScale="0.73" xOffset="-108" yOffset="-802"/>
+    <component base="macron" xOffset="-108" yOffset="-802" xScale="0.73"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scommaaccent" format="1">
-  <advance width="1185"/>
+  <advance width="1184"/>
   <unicode hex="0218"/>
   <outline>
     <component base="S"/>
-    <component base="comma" xOffset="349" yOffset="-392"/>
+    <component base="comma" xOffset="323" yOffset="-363"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
